@@ -2,8 +2,15 @@
       margin: 0;
       padding: 0;
       background-color: #f5f5f5;
-      font-family: Arial, sans-serif;
+      font-family: 'Poppins', sans-serif;
 
+
+    }
+   
+    .hero{
+        background-color: #2C3B2D;
+        color: white;
+        height: 100vh;
     }
     video {
       border-radius: 10px;
